@@ -1,0 +1,14 @@
+Package: ASCRScorecard
+Type: Package
+Title: ASC's R Credit Risk Scorecard Model
+Version: 0.1.0
+Author: Rickys Wong
+Maintainer: Rickys Wong <rickyswong.asc@gmail.com>
+Description: ASC's R Credit Risk Scorecard Model
+    Data Treatment, Imbalanced Data Treatment, Scoring Conversion, GLM model
+License: Adaptive Solution Consulting, Malaysia
+Encoding: UTF-8
+LazyData: true
+Imports:
+  DMwR, scorecard
+RoxygenNote: 7.1.1
